@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "apple-relay.apple.com",
+        "apple-relay.cloudflare.com",
+        "apple-relay.fastly-edge.com",
+        "seed-sequoia.siri.apple.com",
+      ],
+      "domain": [
+        "guzzoni.apple.com",
+        "smoot.apple.com",
+        "mathsolver.apple.com"
+      ]
+    }
+  ]
+}
